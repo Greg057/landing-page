@@ -30,7 +30,7 @@ body {
 .logo {
     color: #f9faf8;
     font-size: 24px;
-    font-weight: bold;
+    font-weight: 800;
 }
 
 
@@ -83,7 +83,7 @@ button {
 
 .second-section {
     text-align: center;
-    margin: 12px 340px 150px;
+    margin: 12px 0px 150px;
 }
 
 .info-header {
@@ -113,4 +113,27 @@ button {
     flex-wrap: wrap;
     max-width: 200px;
     margin-top: 8px;
+}
+
+.third-section {
+    background-color: #e5e7eb;
+    padding: 96px;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+    margin: 0 320px;
+    
+}
+
+.author {
+    font-size: 20px;
+    font-weight: 900;
+    display: flex;
+    justify-content: flex-end;
+    margin: 0 320px;
 }
