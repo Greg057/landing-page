@@ -144,7 +144,7 @@ button {
 
 .big-rectangle {
     background-color: #3882f6;
-    margin: 72px 320px;
+    margin: 96px 320px;
     border-radius: 12px;
     padding: 32px 96px;
     display: flex;
@@ -167,4 +167,13 @@ button {
     border: solid #f9faf8;
     background-color: transparent;
     color: #f9faf8;   
+}
+
+.footer {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    font-size: 16px;
+    color: #f9faf8;
+    padding: 36px 0px;
 }
