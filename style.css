@@ -79,3 +79,38 @@ button {
     height: auto;
     flex-shrink: 0;
 }
+
+
+.second-section {
+    text-align: center;
+    margin: 12px 340px 150px;
+}
+
+.info-header {
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937;
+    margin: 48px 0;
+}
+
+.img-group {
+    display: flex;
+    justify-content: center;
+    gap: 48px;
+}
+
+.rectangle {
+    width: 200px;
+    height: 200px;
+    border: solid 5px #3882f6;
+    border-radius: 12px;
+    
+}
+
+.some-text {
+    font-size: 18px;
+    color: #1F2937;
+    flex-wrap: wrap;
+    max-width: 200px;
+    margin-top: 8px;
+}
